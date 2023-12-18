@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "success": {
+          "type": "boolean"
+        },
+        "message": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "success",
+        "message"
+      ]
+    },
+    "results": {
+      "type": "object",
+      "properties": {
+        "username": {
+          "type": "string"
+        },
+        "token": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "username",
+        "token"
+      ]
+    }
+  },
+  "required": [
+    "meta",
+    "results"
+  ]
+}
