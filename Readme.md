@@ -1,6 +1,6 @@
 # Alta Shop Testing
 
-This repository contains the test results and documentation for the testing of the Toko Online application. The testing was conducted on various platforms, including API, mobile, and web. Below, you will find links to the test reports on Qase.io and Jira.
+This repository contains the test results and documentation for the testing of the Online Shop application. The testing was conducted on various platforms, including API, mobile, and web. Below, you will find links to the test reports on Qase.io and Jira.
 
 ## Test Case Management Tools (Qase.io)
 
